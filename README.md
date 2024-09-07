@@ -21,6 +21,7 @@ Graduado em <strong>Ciência da Computação</strong>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
         <img src="https://img.shields.io/badge/Networking-0082FC?style=for-the-badge&logo=networking&logoColor=white" alt="Infraestrutura de Rede">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
 ## 🌟 Interesses
