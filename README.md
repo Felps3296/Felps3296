@@ -39,4 +39,4 @@ Graduado em <strong>Ciência da Computação</strong>
 
 ## 🤝 Contribuições
 
-Contribuo para projetos open source e estou sempre disposto a ajudar a comunidade de desenvolvedores. Se você tem alguma dúvida ou precisa de ajuda com algo relacionado às tecnologias que eu uso, sinta-se à vontade para me contatar!
+Contribuo para projetos open source e estou sempre disposto a ajudar a comunidade de desenvolvedores. Se você tem alguma dúvida ou precisa de ajuda com algo relacionado às tecnologias que eu uso, sinta-se à vontade para me chamar, TMJ.
