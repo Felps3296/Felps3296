@@ -36,7 +36,3 @@ Graduado em <strong>Ciência da Computação</strong>
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-reis-5a5658227/)
 - [GitHub](https://github.com/Felps3296)
-
-## 🤝 Contribuições
-
-Contribuo para projetos open source e estou sempre disposto a ajudar a comunidade de desenvolvedores. Se você tem alguma dúvida ou precisa de ajuda com algo relacionado às tecnologias que eu uso, sinta-se à vontade para me chamar, TMJ.
