@@ -35,4 +35,3 @@ Graduado em <strong>Ciência da Computação</strong>
 ## 📫 Como me Encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-reis-5a5658227/)
-- [GitHub](https://github.com/Felps3296)
