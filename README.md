@@ -36,6 +36,3 @@ Graduado em <strong>Ciência da Computação</strong>
 ## 📫 Como me Encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-reis-5a5658227/)
-
-## 📊 Linguagens Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felps3296&hide_progress=true&theme=github_dark)
