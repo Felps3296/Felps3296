@@ -1,9 +1,9 @@
 # Olá, eu sou Felipe 👋
 
 ## 🎯 Sobre Mim
-Sou Dev em uma empresa conhecida como NAVA Technology for Business, onde trabalho com java, apache camel, Linux, MySQL, SQL, e Shell Script para automações. Sou formado em Ciência da Computação e tenho uma grande paixão por programação, especialmente em Java.
+Sou Dev em uma empresa conhecida como NAVA Technology for Business, onde trabalho com java, apache camel, Kubernetes, Linux, MySQL, SQL, e Shell Script para automações. Sou formado em Ciência da Computação e tenho uma grande paixão por programação, especialmente em Java.
 
-Além do meu trabalho diário, tenho conhecimento e estudo tecnologias como Docker, Kubernetes, Java, Spring Boot, e Azure. Também tenho experiência em infraestrutura de rede e monitoramento. <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" height="25"/>
+Além do meu trabalho diário, tenho conhecimento e estudo tecnologias como Docker, Spring Boot, e Azure. Também tenho experiência em infraestrutura de rede e monitoramento. <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25" height="25"/>
 
 ## 🎓 Formação
 Graduado em <strong>Ciência da Computação</strong>
